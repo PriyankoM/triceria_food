@@ -1,0 +1,15 @@
+[
+    { "id": 2, "name": "Paneer Tikka","size":{"Small":156,"Medium":259,"Large":320} },
+    { "id": 3, "name": "Chicken Tandoori","size":{"Small":150,"Medium":250,"Large":330} },
+    { "id": 4, "name": "Chicken Hariyali Kebab","size":{"Small":234,"Medium":336,"Large":423} },
+    { "id": 5, "name": "Jeera Rice","size":{"Small":119,"Medium":200,"Large":260} },
+    { "id": 6, "name": "Chicken Double Patty Burger","size":{"Small":100,"Medium":136,"Large":170} },
+    { "id": 7, "name": "McSpicy Chicken Burger","size":{"Small":125,"Medium":165,"Large":195} },
+    { "id": 8, "name": "Roasted Chicken Strips Sub","size":{"Small":170,"Medium":219,"Large":270} },
+    { "id": 9, "name": "Grilled Sandwich","size":{"Small":85,"Medium":124,"Large":160} },
+    { "id": 10, "name": "Tandoori Platter","size":{"Small":190,"Medium":281,"Large":348} },
+    { "id": 1, "name": "Pizza","size":{"Small":300,"Medium":450,"Large":600} },
+    { "id": 11, "name": "Creamy Tomato Pasta Pizza","size":{"Small":219,"Medium":399,"Large":460} },
+    { "id": 12, "name": "Cheesy Jalapeno Pasta Veg","size":{"Small":85,"Medium":129,"Large":200} }
+    
+]    

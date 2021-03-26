@@ -1,0 +1,24 @@
+.inerdiv{
+    position: relative;
+    align-items: center;
+}
+.rohan2{
+   align-self:center;
+   /* align-items:flex-start; */
+   /* justify-content: left;  */
+   /* text-align:justify; */
+   margin-left: 28%;
+   /* margin-right: -50%; */
+   
+
+}
+.rohan3{
+    align-self: center;
+    margin-left: 30%;
+
+}
+.pricestyle{
+    color: blue;
+    margin-left: 20%;
+    font-size: small;
+}
